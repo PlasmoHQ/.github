@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://plasmo.com">
+    <img alt="plasmo logo" width="75%" src="https://www.plasmo.com/assets/banner-black-on-white.png" />
+  </a>
+</p>
+
 <span className="flex flex-1 gap-1">
   <a
     aria-label="License"
