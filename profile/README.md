@@ -1,10 +1,4 @@
 <p align="center">
-  <a href="https://plasmo.com">
-    <img alt="plasmo logo" width="75%" src="https://www.plasmo.com/assets/banner-black-on-white.png" />
-  </a>
-</p>
-
-<p align="center">
   <a aria-label="NPM" href="https://www.npmjs.com/package/plasmo">
     <img alt="NPM Install" src="https://img.shields.io/npm/v/plasmo?logo=npm" />
   </a>
