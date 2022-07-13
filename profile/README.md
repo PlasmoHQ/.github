@@ -4,12 +4,7 @@
   </a>
 </p>
 
-<span className="flex flex-1 gap-1">
-  <a
-    aria-label="License"
-    href="https://github.com/PlasmoHQ/plasmo/blob/main/license">
-    <img alt="See License" src="https://img.shields.io/npm/l/plasmo" />
-  </a>
+<p align="center">
   <a aria-label="NPM" href="https://www.npmjs.com/package/plasmo">
     <img alt="NPM Install" src="https://img.shields.io/npm/v/plasmo?logo=npm" />
   </a>
@@ -31,4 +26,4 @@
       src="https://img.shields.io/discord/946290204443025438?logo=discord&logoColor=white"
     />
   </a>
-</span>
+</p>
